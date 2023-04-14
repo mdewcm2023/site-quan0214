@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '', 'tags': '', 'url': 'About.html'}, {'title': 'cmsimde_site', 'text': 'vocabulary \n cambridge_english_vocabulary_list.pdf \n The_Oxford_5000.pdf', 'tags': '', 'url': 'cmsimde_site.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'vocabulary \n cambridge_english_vocabulary_list.pdf \n The_Oxford_5000.pdf', 'tags': '', 'url': 'About.html'}]};
